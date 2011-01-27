@@ -9,5 +9,5 @@ div.container{
 	width:90%;
 	margin:20px auto;
 	padding:2em;
-	border:0.2em green dotted;
+	border:0.2em #369 dashed;
 }
